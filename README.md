@@ -1,4 +1,4 @@
-![logo](https://github.com/rabbihossain19/rabbihossain19/blob/main/gitbanner.gif)
+<img align="center" src="https://github.com/rabbihossain19/rabbihossain19/blob/main/gitbanner.gif" />
 <h1 align="center">Hi  👋 I'm Rabbi Hossain</h1>
 <h3 align="center">A passionate Laravel developer from bangladesh</h3>
 <img align="right" alt="Coding" width="400px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
@@ -71,12 +71,11 @@
 </p>
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=rabbihossain19&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rabbihossain19&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rabbihossain19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rabbihossain19&show_icons=true&locale=en&layout=compact" alt="rabbihossain19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rabbihossain19&show_icons=true&locale=en" alt="rabbihossain19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rabbihossain19&" alt="rabbihossain19" /></p>
 
 
 ### ✍️ Random Dev Quote
